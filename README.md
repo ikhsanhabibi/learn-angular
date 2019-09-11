@@ -2,3 +2,7 @@
 
 create my-first-app
 - https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
+
+
+Learn typescript
+- https://medium.com/@wittydeveloper/typescript-learn-the-basics-2f56eb9b02eb
