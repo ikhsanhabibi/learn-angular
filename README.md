@@ -6,3 +6,6 @@ create my-first-app
 
 Learn typescript
 - https://medium.com/@wittydeveloper/typescript-learn-the-basics-2f56eb9b02eb
+
+01.01 youtube 
+https://www.youtube.com/watch?v=k5E2AVpwsko
