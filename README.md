@@ -10,3 +10,7 @@ Learn typescript
 https://www.youtube.com/watch?v=LYmJOdCuXrs
 
 https://itnext.io/how-to-crud-in-angular-firebase-firestore-456353d7c62
+
+
+Deploy to firebase:
+- https://medium.com/@zaheeer1/angular-6-7-firebase-hosting-1e02536eb431
