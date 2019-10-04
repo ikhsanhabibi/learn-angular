@@ -18,3 +18,4 @@ Deploy to firebase:
 
 CRUD Mean Angular with GraphQL
 - https://blog.cloudboost.io/a-crud-app-with-apollo-graphql-nodejs-express-mongodb-angular5-2874111cd6a5
+https://stackoverflow.com/questions/52276297/retrieving-data-from-mysql-database-using-nodejs-and-passing-it-to-angularjs-pag
