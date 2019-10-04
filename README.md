@@ -14,3 +14,7 @@ https://itnext.io/how-to-crud-in-angular-firebase-firestore-456353d7c62
 
 Deploy to firebase:
 - https://medium.com/@zaheeer1/angular-6-7-firebase-hosting-1e02536eb431
+
+
+CRUD Mean Angular with GraphQL
+- https://blog.cloudboost.io/a-crud-app-with-apollo-graphql-nodejs-express-mongodb-angular5-2874111cd6a5
