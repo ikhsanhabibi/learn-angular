@@ -52,3 +52,6 @@ CRUD Mean Angular with GraphQL
 Learn the structure of Angular (REcommendation from Kyoung Woo Ham)
 
 - https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
+
+Angular 7/8:
+- https://jasonwatmore.com/post/2019/04/24/angular-7-tutorial-part-2-create-base-project-structure-webpack-config
