@@ -39,3 +39,6 @@ CORS problem on console
 
 Angular 8 Tutorial CRUD
 - https://appdividend.com/2019/06/04/angular-8-tutorial-with-example-learn-angular-8-crud-from-scratch/
+
+MongoDB and Roboto on Windows
+- https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows
