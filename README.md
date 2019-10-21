@@ -31,3 +31,7 @@ Learn the structure of Angular (Recommendation from Kyoung Woo Ham)
 
 Angular 7/8:
 - https://jasonwatmore.com/post/2019/04/24/angular-7-tutorial-part-2-create-base-project-structure-webpack-config
+
+
+CORS problem on console
+- https://stackoverflow.com/questions/53348845/zone-js2969-access-to-xmlhttprequest-has-been-blocked-by-cors-policy
