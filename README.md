@@ -35,3 +35,7 @@ Angular 7/8:
 
 CORS problem on console
 - https://stackoverflow.com/questions/53348845/zone-js2969-access-to-xmlhttprequest-has-been-blocked-by-cors-policy
+
+
+Angular 8 Tutorial CRUD
+- https://appdividend.com/2019/06/04/angular-8-tutorial-with-example-learn-angular-8-crud-from-scratch/
