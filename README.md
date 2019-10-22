@@ -40,6 +40,9 @@ Express CORS ERROR (missing port)
 - zone-evergreen.js:2952 OPTIONS http://localhost:4000/products/add net::ERR_EMPTY_RESPONSE
 - https://stackoverflow.com/questions/53349575/what-is-causing-my-post-request-to-fail-cors-with-express-angular
 
+Express Routing
+- https://expressjs.com/de/guide/routing.html
+
 Number only validators
 - https://stackoverflow.com/questions/56165186/angular-7-input-number-validation
 
