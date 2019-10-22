@@ -56,3 +56,6 @@ Form submission canceled because the form is not connected
 
 ngModel in input [formGroup] - ngModel which is part of template-driven form inside a Reactive form.
 - https://stackoverflow.com/questions/50302083/removing-ngmodel-from-a-component
+
+Form : Reactive & template driven
+- https://appdividend.com/2019/06/07/angular-8-forms-tutorial-angular-reactive-and-template-forms-example/
