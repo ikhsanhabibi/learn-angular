@@ -50,3 +50,6 @@ Express CORS ERROR (missing port)
 
 Number only validators
 - https://stackoverflow.com/questions/56165186/angular-7-input-number-validation
+
+Form submission canceled because the form is not connected
+- https://stackoverflow.com/questions/42531167/angular-2-form-submission-canceled-because-the-form-is-not-connected
