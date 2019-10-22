@@ -53,3 +53,6 @@ Number only validators
 
 Form submission canceled because the form is not connected
 - https://stackoverflow.com/questions/42531167/angular-2-form-submission-canceled-because-the-form-is-not-connected
+
+ngModel in input [formGroup] - ngModel which is part of template-driven form inside a Reactive form.
+- https://stackoverflow.com/questions/50302083/removing-ngmodel-from-a-component
