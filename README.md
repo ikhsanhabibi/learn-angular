@@ -42,3 +42,8 @@ Angular 8 Tutorial CRUD
 
 MongoDB and Roboto on Windows
 - https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows
+
+
+Express CORS ERROR (missing port)
+- zone-evergreen.js:2952 OPTIONS http://localhost:4000/products/add net::ERR_EMPTY_RESPONSE
+- https://stackoverflow.com/questions/53349575/what-is-causing-my-post-request-to-fail-cors-with-express-angular
