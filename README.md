@@ -40,10 +40,13 @@ CORS problem on console
 Angular 8 Tutorial CRUD
 - https://appdividend.com/2019/06/04/angular-8-tutorial-with-example-learn-angular-8-crud-from-scratch/
 
-MongoDB and Roboto on Windows
+MongoDB and RoboMongo on Windows
 - https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows
 
 
 Express CORS ERROR (missing port)
 - zone-evergreen.js:2952 OPTIONS http://localhost:4000/products/add net::ERR_EMPTY_RESPONSE
 - https://stackoverflow.com/questions/53349575/what-is-causing-my-post-request-to-fail-cors-with-express-angular
+
+Number only validators
+- https://stackoverflow.com/questions/56165186/angular-7-input-number-validation
