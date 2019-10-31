@@ -57,3 +57,6 @@ Form : Reactive & template driven
 
 Angular2- Update UI after deleting
 - https://stackoverflow.com/questions/39535192/angular2-update-ui-after-deleting
+
+search filter pipes angular
+- https://medium.com/@ole.ersoy/searching-country-codes-using-an-angular-filter-pipe-a7115584db9f
