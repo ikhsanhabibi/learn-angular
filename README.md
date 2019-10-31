@@ -54,3 +54,6 @@ ngModel in input [formGroup] - ngModel which is part of template-driven form ins
 
 Form : Reactive & template driven
 - https://appdividend.com/2019/06/07/angular-8-forms-tutorial-angular-reactive-and-template-forms-example/
+
+Angular2- Update UI after deleting
+- https://stackoverflow.com/questions/39535192/angular2-update-ui-after-deleting
